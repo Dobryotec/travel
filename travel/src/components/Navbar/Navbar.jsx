@@ -11,7 +11,7 @@ const Navbar = () => {
     setActive("navBar activeNavbar");
   };
   const closeNav = () => {
-    setActive("navBar");
+    setActive("navBar")
   };
 
   return (

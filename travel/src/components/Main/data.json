@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imgSrc": "/travel/src/assets/img.jpg",
+    "imgSrc": "/travel/src/assets/bora-bora.webp",
     "destTitle": "Bora Bora",
     "location": "New Zealand",
     "grade": "CULTURAL RELAX",
@@ -11,7 +11,7 @@
 
   {
     "id": 2,
-    "imgSrc": "/travel/src/assets/img2.jpg",
+    "imgSrc": "/travel/src/assets/machu-piccuhu.webp",
     "destTitle": "Machu Piccuhu",
     "location": "Peru",
     "grade": "CULTURAL RELAX",
@@ -21,7 +21,7 @@
 
   {
     "id": 3,
-    "imgSrc": "/travel/src/assets/img3.jpg",
+    "imgSrc": "/travel/src/assets/barrier-reef.webp",
     "destTitle": "Great Barrier Reef",
     "location": "Australia",
     "grade": "CULTURAL RELAX",
@@ -31,7 +31,7 @@
 
   {
     "id": 4,
-    "imgSrc": "/travel/src/assets/img4.jpg",
+    "imgSrc": "/travel/src/assets/cappadocia.webp",
     "destTitle": "Cappadocia",
     "location": "Turkey",
     "grade": "CULTURAL RELAX",
@@ -41,7 +41,7 @@
 
   {
     "id": 5,
-    "imgSrc": "/travel/src/assets/img5.jpg",
+    "imgSrc": "/travel/src/assets/guanajuato.webp",
     "destTitle": "Guanajuato",
     "location": "Mexico",
     "grade": "CULTURAL RELAX",
@@ -51,7 +51,7 @@
 
   {
     "id": 6,
-    "imgSrc": "/travel/src/assets/img6.jpg",
+    "imgSrc": "/travel/src/assets/cinque-terre.webp",
     "destTitle": "Cinque Terre",
     "location": "Italy",
     "grade": "CULTURAL RELAX",
@@ -61,7 +61,7 @@
 
   {
     "id": 7,
-    "imgSrc": "/travel/src/assets/img7.jpg",
+    "imgSrc": "/travel/src/assets/angkor-wat.webp",
     "destTitle": "Angkor Wat",
     "location": "Cambodia",
     "grade": "CULTURAL RELAX",
@@ -71,7 +71,7 @@
 
   {
     "id": 8,
-    "imgSrc": "/travel/src/assets/img8.jpg",
+    "imgSrc": "/travel/src/assets/taj-mahal.webp",
     "destTitle": "Taj Mahal",
     "location": "India",
     "grade": "CULTURAL RELAX",
@@ -81,7 +81,7 @@
 
   {
     "id": 9,
-    "imgSrc": "/travel/src/assets/img9.jpg",
+    "imgSrc": "/travel/src/assets/bali-island.webp",
     "destTitle": "Bali Island",
     "location": "Indonesia",
     "grade": "CULTURAL RELAX",
